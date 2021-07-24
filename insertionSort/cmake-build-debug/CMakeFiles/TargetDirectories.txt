@@ -1,0 +1,3 @@
+C:/Users/cheng/CLionProjects/insertionSort/cmake-build-debug/CMakeFiles/insertionSort.dir
+C:/Users/cheng/CLionProjects/insertionSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cheng/CLionProjects/insertionSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
